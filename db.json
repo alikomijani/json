@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "email":"akpa125@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "hello2",
+      "email":"akpa126@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "hello3",
+      "email":"akpa127@gmail.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
